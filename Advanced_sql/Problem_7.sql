@@ -3,7 +3,8 @@
 Find the count of the number of remote job postings per skill
     - Display the top 5 skills by their demand in remote jobs
     - Include skill ID, name, and count of postings requiring the skill
-*/USE sql_course
+*/
+USE sql_course;
 
 WITH remote_job_skills AS(
     SELECT 
@@ -14,7 +15,7 @@ WITH remote_job_skills AS(
     INNER JOIN job_postings_fact AS job_postings ON job_postings.job_id = skills_to_job.job_id
     WHERE
         job_postings.job_work_from_home = 1 AND
-        job_postings.job_title_short LIKE 'Data Analyst'
+        job_postings.job_title_short = 'Data Analyst'
     GROUP BY
         skill_id
 )
