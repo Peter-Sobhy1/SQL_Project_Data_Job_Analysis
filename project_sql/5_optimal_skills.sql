@@ -9,6 +9,7 @@ Answer: What are the most optimal skills to learn (aka it’s in high demand and
 
 -- Identifies skills in high demand for Data Analyst roles
 -- Use Query #3
+
 USE sql_course
 WITH skills_demand AS (
     SELECT
