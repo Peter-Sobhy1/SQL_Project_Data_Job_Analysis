@@ -194,13 +194,13 @@ ORDER BY
 | 77 | BigQuery | 13 | 20,769 |
 | 78 | Redshift | 12 | 15,583 |
 | 4 | Java | 12 | 14,917 |
-| 233 | Jira | 15 | 14100.000000 |
-| 61 | SQL Server | 15 | 13667.000000 |
-| 76 | AWS | 25 | 13180.000000 |
-| 79 | Oracle | 16 | 12813.000000 |
-| 93 | Pandas | 12 | 12083.000000 |
-| 75 | Databricks | 11 | 10455.000000 |
-| 5 | R | 78 | 10441.000000 |
+| 233 | Jira | 15 | 14100 |
+| 61 | SQL Server | 15 | 13667 |
+| 76 | AWS | 25 | 13180 |
+| 79 | Oracle | 16 | 12813 |
+| 93 | Pandas | 12 | 12083 |
+| 75 | Databricks | 11 | 10455 |
+| 5 | R | 78 | 10441 |
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
