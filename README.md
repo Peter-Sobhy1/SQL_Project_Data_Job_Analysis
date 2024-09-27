@@ -95,7 +95,7 @@ SQL is leading with a bold count of 8.
 Python follows closely with a bold count of 7.
 Tableau is also highly sought after, with a bold count of 6. Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-![Top Paying Roles Skills](assets\Top_paying_roles_skills.PNG)
+![Top Paying Roles Skills](assets\top_paying_roles_skills.PNG)
 
 Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; I used Power BI to make this graph by linking SQL Server to it.
 
