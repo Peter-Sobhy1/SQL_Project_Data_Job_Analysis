@@ -39,8 +39,8 @@ The database schema diagram below provides a visual representation of the struct
 The diagram serves several purposes:
 
 1. **Documentation:** Provides a clear and concise reference for understanding the database structure, facilitating easier maintenance and future development.
-2. Development: Assists developers in grasping the data relationships and dependencies.
-3. Communication: Enhances communication among team members by providing a shared understanding of the data model.
+2. **Development:** Assists developers in grasping the data relationships and dependencies.
+3. **Communication:** Enhances communication among team members by providing a shared understanding of the data model.
 
 ![Database Diagram](assets/Capture.PNG)
 
