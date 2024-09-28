@@ -21,6 +21,29 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Visual Studio Code :** My go-to for database management and executing SQL queries.
 - **Git & GitHub :** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
+# Database Schema Diagram
+
+### Overview
+The database schema diagram below provides a visual representation of the structure and organization of the database used in this project. It includes all the tables, their relationships, and key constraints, offering a comprehensive view of the data model.
+
+### Key Components
+1. **Tables:** 
+   - Each table in the diagram corresponds to a key entity within the database.
+   - The attributes (columns) within each table are shown.
+
+2. **Relationships:**
+- The lines connecting tables represent relationships between entities, such as one-to-many.
+- Each relationship is annotated to indicate the nature of the connection and referential integrity constraints.
+
+### Purpose and Usage
+The diagram serves several purposes:
+
+1. **Documentation:** Provides a clear and concise reference for understanding the database structure, facilitating easier maintenance and future development.
+2. Development: Assists developers in grasping the data relationships and dependencies.
+3. Communication: Enhances communication among team members by providing a shared understanding of the data model.
+
+![Database Diagram](assets/Capture.PNG)
+
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
