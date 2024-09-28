@@ -28,12 +28,12 @@ The database schema diagram below provides a visual representation of the struct
 
 ### Key Components
 1. **Tables:** 
-- Each table in the diagram corresponds to a key entity within the database.
-- The attributes (columns) within each table are shown.
+ - Each table in the diagram corresponds to a key entity within the database.
+ - The attributes (columns) within each table are shown.
 
 2. **Relationships:**
-- The lines connecting tables represent relationships between entities, such as one-to-many.
-- Each relationship is annotated to indicate the nature of the connection and referential integrity constraints.
+ - The lines connecting tables represent relationships between entities, such as one-to-many.
+ - Each relationship is annotated to indicate the nature of the connection and referential integrity constraints.
 
 ### Purpose and Usage
 The diagram serves several purposes:
